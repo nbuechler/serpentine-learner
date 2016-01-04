@@ -58,3 +58,6 @@ target/
 
 # virtualenv
 venv/
+
+# data folders
+MNIST_data/
