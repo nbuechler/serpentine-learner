@@ -1,6 +1,13 @@
 # serpentine-learner
 python machine learning tensorflow project
 
+# Future Steps
+
+So, I did a few tutorials for the MNIST data, but I found out that I am missing
+quite a bit of the theoretical underpinning. Therefore, I think I need to study on my
+own before continuing. Meanwhile, I think I could work on make an ML script run
+with an API call. I could add flask, but I'm not sure if this is the best approach. 
+
 # Steps
 
 
